@@ -1,0 +1,2 @@
+SynonymsPT_sqlite.db filter=lfs diff=lfs merge=lfs -text
+SynonymsES_sqlite.db filter=lfs diff=lfs merge=lfs -text
