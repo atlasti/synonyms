@@ -4,6 +4,11 @@ Copyright Ⓒ Dias-da-Silva, B.C.; Moraes, H.R.; Oliveira, M.F.; Hasegawa, R.; A
 Licensed under Creative Commons Attribution-ShareAlike 4.0 - changes: removed additional information beside simple synonyms, removed synonym sets of size one
 A copy of the used database including contributions can be obtained under the same license here: [https://github.com/atlasti/synonyms](https://github.com/atlasti/synonyms)
 
+### The German Synonyms
+The original work is licensed under Creative Commons Attribution-ShareAlike 4.0 - changes: removed additional information beside simple synonyms, removed synonym sets of size one, removed some offensive terms\
+Copyright Ⓒ openthesaurus.de Copyright © ATLAS.ti GmbH 2021\
+A copy of the used database including contributions can be obtained under the same license here: https://github.com/atlasti/synonyms
+
 ### The Spanish Synonyms
 The original work is licensed under CC-BY-SA 4.0 - changes: removed additional information beside simple synonyms, removed synonym sets of size one
 Copyright Ⓒ Guillermo Garcia, J. Eduardo Moreno
