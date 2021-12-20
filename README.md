@@ -1,4 +1,5 @@
 ### Synonyms
+DE - German
 ES - Spanisch
 PT - Portuguese
 
