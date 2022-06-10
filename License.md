@@ -15,6 +15,24 @@ Copyright Ⓒ Guillermo Garcia, J. Eduardo Moreno
 Copyright © ATLAS.ti GmbH 2021
 A copy of the used database including contributions can be obtained under the same license here: [https://github.com/atlasti/synonyms](https://github.com/atlasti/synonyms)
 
+### The French Synonyms
+The original work is licensed under the Mozilla Public License Version 2.0
+- changes: removed additional information beside simple synonyms, removed synonym sets of size one
+Copyright Ⓒ Olivier R. - dicollecte<at>free<dot>fr Dicollecte : http://www.dicollecte.org/
+Copyright © ATLAS.ti GmbH 2022
+A copy of the used database including contributions can be obtained under the same license here: [https://github.com/atlasti/synonyms](https://github.com/atlasti/synonyms)
+
+### The Dutch Synonyms
+The Dutch synonyms is licensed under the BSD 2-Clause License
+Ⓒ 2008, 2009 OpenTaal
+Uitbreiding met flexvormen van reeds goedgekeurde woorden.
+Ⓒ 2006, 2007 OpenTaal
+Aanpassingen conform de Officiële Spelling 2005 zoals opgesteld door de Nederlandse Taalunie, en aanzienlijke uitbreiding en verbetering. Voor meer informatie, zie: <http://opentaal.org/whoswho.php>.
+Ⓒ 2001, 2002, 2003, 2005 Simon Brouwer e.a.
+Conversie naar MySpell-formaat en verdere verbeteringen aan de woordenlijst.
+Ⓒ 1996 Nederlandstalige Tex Gebruikersgroep
+Deze woordenlijst is gebaseerd op de Nederlandstalige woordenlijsten die zijn ontwikkeld door de Nederlandstalige Tex Gebruikersgroep. Voor meer informatie, zie: <http://www.ntg.nl/spelling/>.
+
 
 ### Creative Commons Attribution-ShareAlike 4.0 International Public License
 
@@ -125,3 +143,17 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 Creative Commons may be contacted at creativecommons.org.
 
 Additional languages available: العربية, čeština, Deutsch, Ελληνικά, Español, euskara, suomeksi, français, hrvatski, Bahasa Indonesia, italiano, 日本語, 한국어, Lietuvių, latviski, te reo Māori, Nederlands, norsk, polski, português, română, русский, Slovenščina, svenska, Türkçe, українська, 中文, 華語. Please read the FAQ for more information about official translations. 
+
+    ### BSD 2-Clause License:
+[https://opensource.org/licenses/bsd-license.php](https://opensource.org/licenses/bsd-license.php)
+Note: This license has also been called the "Simplified BSD License" and the "FreeBSD License". See also the 3-clause BSD License.
+
+Copyright <YEAR> <COPYRIGHT HOLDER>
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
