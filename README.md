@@ -1,7 +1,9 @@
 ### Synonyms
 DE - German\
 ES - Spanish\
-PT - Portuguese
+PT - Portuguese\
+FR - French\
+NL - Dutch
 
 # .db files:
 These files are ready-to-use sqlite database files.
