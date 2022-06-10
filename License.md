@@ -144,7 +144,7 @@ Creative Commons may be contacted at creativecommons.org.
 
 Additional languages available: العربية, čeština, Deutsch, Ελληνικά, Español, euskara, suomeksi, français, hrvatski, Bahasa Indonesia, italiano, 日本語, 한국어, Lietuvių, latviski, te reo Māori, Nederlands, norsk, polski, português, română, русский, Slovenščina, svenska, Türkçe, українська, 中文, 華語. Please read the FAQ for more information about official translations. 
 
-    ### BSD 2-Clause License:
+### BSD 2-Clause License:
 [https://opensource.org/licenses/bsd-license.php](https://opensource.org/licenses/bsd-license.php)
 Note: This license has also been called the "Simplified BSD License" and the "FreeBSD License". See also the 3-clause BSD License.
 
